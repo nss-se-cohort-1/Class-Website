@@ -6,7 +6,7 @@ This is a simple template for NSS students to use to create their class website.
 
 1. Click on "Use This Template"
 2. In the owner dropdown, choose your cohort's organization 
-3. Name the repository after the cohort organization, ie. if the is nss-day-cohort-50 name the new repo `nss-day-cohort-50.github.io`
+3. Name the repository after the organization, ie. if the cohort's organization is called nss-day-cohort-50 name the new repo `nss-day-cohort-50.github.io`
 4. Clone the repo locally to start working
 5. Update `data/cohort.json` with student information
 6. Update images with your class's photos
