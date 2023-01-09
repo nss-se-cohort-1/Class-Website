@@ -1,11 +1,11 @@
 p {
-  font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow', sans-serif;
 }
 
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: url("../images/background.jpg") fixed repeat;
     background-size: 100%;
     background-color: black;
 }
@@ -23,17 +23,19 @@ blockquote{
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
     background: white !important;
+    height: 96px;
 }
 .navbar-brand{
     display: flex;
 }
 .nav-spacing {
-  margin-right: 2em;
+    margin-right: 2em;
 }
 
-#cohort22{
+#heading-with-date{
     display: inline-block;
     color: #238193;
+    font-size: 1.5em;
 }
 
 #jumbheader{
@@ -63,12 +65,12 @@ blockquote{
 
 .jumbotron.jumbotron-fluid{
     background: none;
-   }
+}
+
 .jumbotron.jumbotron-fluid img{
     background: none;
-    width:100%;
-    margin-top: -80px;
-   }
+    margin-top: 36px;
+}
 
 main {
     margin-bottom: 20px;
@@ -76,13 +78,14 @@ main {
     width: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
-  }
+}
 
 .row{
     justify-content: center;
 }
 
 .navbar-collapse{
+    background: white !important;
     justify-content: flex-end;
     font-weight: bold;
     text-transform: uppercase;
@@ -113,7 +116,7 @@ main {
 .techs{
     width: 70px;
     margin: 20px 0px;
-  }
+}
 
 .words{
     padding:50px;
@@ -122,53 +125,53 @@ main {
 .no-gutters {
     margin-right: 0;
     margin-left: 0;
-  }
+}
 
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-  }
+}
 
 .col,
 [class*="col-"] {
     padding-right: 0;
     padding-left: 0;
-  }
+}
 
 .modal-body{
     display: block;
-  }
+}
 
-  .studentContact{
-      text-align: center;
-      display: flex;
-      justify-content: space-evenly;
-      -webkit-justify-content: space-evenly;
-      margin-bottom: .75rem;
-  }
+.studentContact{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    -webkit-justify-content: space-evenly;
+    margin-bottom: .75rem;
+}
 
-  .contactIcons{
-      color: #238193;
-  }
-  .contactIcons:hover{
-      transform: scale(1.2);
-  }
+.contactIcons{
+    color: #238193;
+}
+.contactIcons:hover{
+    transform: scale(1.2);
+}
 
-  .modal-header{
+.modal-header{
     background-color: lightgray!important;
     color: #238193;
-  }
+}
 
-  .modal-body img{
+.modal-body img{
     width: 50%;
     height: 50%;
     box-shadow: 3px 3px 5px #cacaca;
     border-radius: 10px;
-  }
+}
 
-  .backButton{
-      margin-bottom: 1.5rem;
-  }
+.backButton{
+    margin-bottom: 1.5rem;
+}
 
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
@@ -198,56 +201,96 @@ button{
     background-color: #238193!important;
 }
 
-/* adjusts size of contact icons depending on size of card */
+/* Responisve Styles */
+
+@media (max-width: 767px) {
+    #heading-with-date::before{
+        content: "SE Cohort 1 | 2/24/2023";
+        font-size: 1.2em;
+        margin-left: -8px;
+    }
+    #heading-with-date span{
+        display: none;
+    }
+
+    .navbar-brand {
+        margin-right: 2px;
+    }
+    
+    .navbar-toggler {
+        padding: 4px;
+    }
+
+    .jumbotron.jumbotron-fluid img{
+        margin-top: 80px !important;
+    }
+}
+
 @media (min-width: 992px) and (max-width: 1200px){
+    #heading-with-date::before{
+        content: "SE Cohort 1 | Demo Day Feb 24, 2023";
+        font-size: 1em;
+    }
+    #heading-with-date span{
+        display: none;
+    }
+
     .fa-3x{
         font-size: 2.5em!important;
-      }
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px){
+    #heading-with-date::before{
+        content: "SE Cohort 1 | Demo Day Feb 24, 2023";
+        font-size: 1.2em;
+    }
+    #heading-with-date span{
+        display: none;
+    }
+
     .fa-3x{
         font-size: 2em!important;
-      }    
+    }    
 }
 
 
 @media (max-width: 900px) {
+    #heading-with-date{
+        font-size: 1.2em;
+    }
 
-    /* body {
-        background: url("../assets/images/bg.jpg") repeat;
-    } */
     .jumbotron.jumbotron-fluid img{
         background: white;
         margin-top:30px;
-       }
-       .jumbotron.jumbotron-fluid.sm-width{
+    }
+    .jumbotron.jumbotron-fluid.sm-width{
         width: 100%;
     }
-       .header-text{
+    .header-text{
         margin: 0 auto;
         height: 30px;
-       }
-       .header-text h2{
+    }
+    .header-text h2{
         font-size: 1.5em;
         margin-top: -10px;
-       }
-       .modal-body{
+    }
+    .modal-body{
         display: block;
-      }
-      .modal-content {
+    }
+    .modal-content {
         width: 100%;
     }
-       .modal-body img{
+    .modal-body img{
         width: 100%;
-      }
-      main {
+    }
+    main {
         margin-bottom: 100px;
         margin-top: -50px;
         width: 100%
-      }
-      .navbar-brand img{
+    }
+    .navbar-brand img{
         padding-right: none;
-      }
+    }
 
 }
