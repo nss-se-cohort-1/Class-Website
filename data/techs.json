@@ -31,24 +31,6 @@
             "link": "https://github.com/"
         },
         {
-            "id": 6,
-            "name": "Javascript",
-            "image": "javascript.png",
-            "link": "https://www.javascript.com/"
-        },
-        {
-            "id": 7,
-            "name": "HTML5",
-            "image": "html5.png",
-            "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
-        },
-        {
-            "id": 8,
-            "name": "CSS3",
-            "image": "css3.png",
-            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
-        },
-        {
             "id": 9,
             "name": "AWS Lambda",
             "image": "aws-lambda.svg",
@@ -67,10 +49,52 @@
             "link": "https://aws.amazon.com/dynamodb/"
         },
         {
+            "id": 12,
+            "name": "AWS CloudFormation",
+            "image": "aws-cloudformation.png",
+            "link": "https://aws.amazon.com/cloudformation/"
+        },
+        {
+            "id": 14,
+            "name": "AWS Serverless Application Model (SAM)",
+            "image": "aws-sam.png",
+            "link": "https://aws.amazon.com/serverless/sam/"
+        },
+        {
+            "id": 15,
+            "name": "AWS Cloudfront",
+            "image": "aws-cloudfront.svg",
+            "link": "https://aws.amazon.com/cloudfront/"
+        },
+        {
+            "id": 16,
+            "name": "Redis",
+            "image": "redis.png",
+            "link": "https://redis.io/"
+        },
+        {
             "id": 17,
             "name": "Visual Studio Code",
             "image": "vsc.png",
             "link": "https://code.visualstudio.com/"
+        },
+        {
+            "id": 30,
+            "name": "Javascript",
+            "image": "javascript.png",
+            "link": "https://www.javascript.com/"
+        },
+        {
+            "id": 35,
+            "name": "HTML5",
+            "image": "html5.png",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"
+        },
+        {
+            "id": 40,
+            "name": "CSS3",
+            "image": "css3.png",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
         }
     ]
 }
