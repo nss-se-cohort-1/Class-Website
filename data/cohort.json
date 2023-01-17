@@ -69,14 +69,14 @@
             "id": 6,
             "firstName": "Alex",
             "lastName": "Murillo",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "Do the work today to make your future-self proud of what you've accomplished.",
+            "bio": "Firefighter/Paramedic turned Emergency Manager turned Software Engineer. My background has given me demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems.",
+            "github": "https://github.com/emergency22",
+            "linkedIn": "https://www.linkedin.com/in/alexdmurillo/",
+            "portfolio": null,
+            "email": "alex.d.murillo@protonmail.com",
+            "proImg": "pro-student-alex-murillo.png",
+            "funImg": "fun-student-alex-murillo.png"
         },
         {
             "id": 7,
