@@ -30,14 +30,14 @@
             "id": 3,
             "firstName": "Matt",
             "lastName": "Leigh",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "Work hard, think big.",
+            "bio": "I used to produce hit records. I still do, but I used to, too. Now I develop software for a living.",
+            "github": "https://github.com/mattleighpro",
+            "linkedIn": null,
+            "portfolio": "http://www.mattleigh.com",
+            "email": "matt@mattleigh.com",
+            "proImg": "pro-student-matt-leigh.png",
+            "funImg": "fun-student-matt-leigh.png"
         },
         {
             "id": 4,
