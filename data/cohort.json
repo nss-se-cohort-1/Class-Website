@@ -120,15 +120,15 @@
         {
             "id": 10,
             "firstName": "Shilpa",
-            "lastName": "Sathya Nair",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "lastName": "Nair",
+            "reelThemIn": "<b>If you don't like the road you're walking, start paving another one. - Dolly Parton</b>",
+            "bio": "After breaking barriers between business and IT for as an IT Business Analyst for years, I have come full circle by returning to my roots in software development. Technology Agnostic. Quick Learner. Big Picture Thinker.",
+            "github": "https://github.com/lafleurss/",
+            "linkedIn": "https://www.linkedin.com/in/shilpasnair/",
+            "portfolio": null,
+            "email": "shilpa.sathya@gmail.com",
+            "proImg": "pro-student-shilpa-nair.png",
+            "funImg": "fun-student-shilpa-nair.jpg"
         },
         {
             "id": 11,
