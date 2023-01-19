@@ -185,16 +185,16 @@
         },
         {
             "id": 15,
-            "firstName": "Sanja",
+            "firstName": "Sanjay",
             "lastName": "Tummalapalli",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "Accident is the first building block of evolution. - Amelia Brandt('Interstellar')",
+            "bio": "Healthcare grad turned software developer, looking to develop solutions to complex puzzles and challenges",
+            "github": "https://github.com/Sanjay1031",
+            "linkedIn": "https://www.linkedin.com/in/sanjay-tummalapalli",
+            "portfolio": null,
+            "email": "sanjayt2021@gmail.com",
+            "proImg": "pro-student-sanjay-t.png",
+            "funImg": "fun-student-sanjay-t.png"
         },
         {
             "id": 16,
