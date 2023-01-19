@@ -200,14 +200,14 @@
             "id": 16,
             "firstName": "Steve",
             "lastName": "Winters",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "It is not the length of life, but depth of life. -Emerson",
+            "bio": "I am a software engineer that recently transitioned from IT hardware sales. I am drawn to software engineering because designing computer programs lets me utilize the critical thinking and creative problem-solving skills that correlate with my mathematics background. I am intrigued by the practicality and creativity of software engineering to solve real world problems.",
+            "github": "https://github.com/winters5885",
+            "linkedIn": "https://www.linkedin.com/in/steve-winters",
+            "portfolio": null,
+            "email": "steve.winters85@gmail.com",
+            "proImg": "pro-student-steve-winters.png",
+            "funImg": "fun-student-steve-winters.png"
         }
     ]
 }
