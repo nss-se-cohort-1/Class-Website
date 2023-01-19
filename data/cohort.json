@@ -147,14 +147,15 @@
             "id": 12,
             "firstName": "Erika",
             "lastName": "Smith",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "Every job is a self-portrait of the person who does it. Autograph your work with excellence.</b>",
+
+            "bio": "My interest and passion for tech started at a very early age. I started playing with computers at the age of five. I love puzzles and problem solving, which is what attracted me to software development. I want to create software that has the ability to impact the lives of people.",
+            "github": "https://github.com/cyber-scythe",
+            "linkedIn": "https://www.linkedin.com/in/erika-smith-dev/",
+            "portfolio": null,
+            "email": "erikadaniellesmith@gmail.com",
+            "proImg": "pro-student-erika-smith.png",
+            "funImg": "fun-student-erika-smith.png"
         },
         {
             "id": 13,
