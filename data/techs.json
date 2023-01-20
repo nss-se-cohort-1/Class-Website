@@ -61,12 +61,6 @@
             "link": "https://aws.amazon.com/cloudformation/"
         },
         {
-            "id": 14,
-            "name": "AWS Serverless Application Model (SAM)",
-            "image": "aws-sam.png",
-            "link": "https://aws.amazon.com/serverless/sam/"
-        },
-        {
             "id": 15,
             "name": "AWS Cloudfront",
             "image": "aws-cloudfront.svg",
@@ -113,6 +107,12 @@
             "name": "Docker",
             "image": "docker.webp",
             "link": "https://www.docker.com/"
+        },
+        {
+            "id": 50,
+            "name": "AWS Serverless Application Model (SAM)",
+            "image": "aws-sam.png",
+            "link": "https://aws.amazon.com/serverless/sam/"
         }
     ]
 }
