@@ -134,14 +134,14 @@
             "id": 11,
             "firstName": "Jack",
             "lastName": "Siri",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "I explain code to a RubberDucky.",
+            "bio": "I developed a passion for technology at a young age by playing video games, building computers, and just being fascinated with electronics. Before my journey into Software Engineering I was previously a Competitive Gymnastics Coach and a Elite Powerlifter. ",
+            "github": "https://github.com/sjsiri",
+            "linkedIn": "https://www.linkedin.com/in/surinhsiri/",
+            "portfolio": null,
+            "email": "surinhjs@gmail.com",
+            "proImg": "pro-student-jack-siri.JPG",
+            "funImg": "fun-student-jack-siri.PNG"
         },
         {
             "id": 12,
