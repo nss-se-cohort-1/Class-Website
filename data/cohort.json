@@ -56,14 +56,14 @@
             "id": 5,
             "firstName": "Matthew",
             "lastName": "Marotta",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "Sometimes the best way to solve your own problems is to help someone else.",
+            "bio": "I am a Software Engineer who has always been interested in how things work. I have travelled to remote regions of the Brazilian Amazon as well as the Kilimanjaro Region of Tanzania. The work I did there helped shape my problem solving skills, my ability to work in and lead teams, and provided me with unique experiences on projects that involved overcoming language barriers, operating with limited resources, and meeting strict deadlines.",
+            "github": "https://github.com/MattMarotta94",
+            "linkedIn": "https://www.linkedin.com/in/matthew-marotta",
+            "portfolio": null,
+            "email": "mcmarotta48@gmail.com",
+            "proImg": "MattMarotta_Placeholder.jpg",
+            "funImg": "MattMarotta_PlaceHolder.jpg"
         },
         {
             "id": 6,
