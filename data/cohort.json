@@ -95,14 +95,14 @@
             "id": 8,
             "firstName": "Jake",
             "lastName": "Price",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "Thanks, StackOverflow - Jake Price",
+            "bio": "Hobbyist programmer for several years while preparing to attend law school. Decided to pursue my passion and take a chance on myself. Professional new-thing-learner.",
+            "github": "https://github.com/jakeyjake88",
+            "linkedIn": "https://www.linkedin.com/in/jake-price-125978159/",
+            "portfolio": null,
+            "email": "jakepricep99@gmail.com",
+            "proImg": "pro-student-jake-price.png",
+            "funImg": "fun-student-jake-price.png"
         },
         {
             "id": 9,
