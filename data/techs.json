@@ -15,7 +15,7 @@
         {
             "id": 3,
             "name": "IntelliJ",
-            "image": "intellij.png",
+            "image": "intellij.svg",
             "link": "https://www.jetbrains.com/idea/"
         },
         {
@@ -29,6 +29,12 @@
             "name": "Github",
             "image": "github.png",
             "link": "https://github.com/"
+        },
+        {
+            "id": 7,
+            "name": "Zsh / Terminal",
+            "image": "zsh.png",
+            "link": "https://www.zsh.org/"
         },
         {
             "id": 9,
@@ -67,6 +73,12 @@
             "link": "https://aws.amazon.com/cloudfront/"
         },
         {
+            "id": 15,
+            "name": "AWS CloudWatch",
+            "image": "aws-cloudfront.png",
+            "link": "https://aws.amazon.com/cloudwatch/"
+        },
+        {
             "id": 16,
             "name": "Redis",
             "image": "redis.png",
@@ -95,6 +107,12 @@
             "name": "CSS3",
             "image": "css3.png",
             "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
+        },
+        {
+            "id": 45,
+            "name": "Docker",
+            "image": "docker.webp",
+            "link": "https://www.docker.com/"
         }
     ]
 }
