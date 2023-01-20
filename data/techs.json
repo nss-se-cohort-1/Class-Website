@@ -75,7 +75,7 @@
         {
             "id": 15,
             "name": "AWS CloudWatch",
-            "image": "aws-cloudfront.png",
+            "image": "aws-cloudwatch.png",
             "link": "https://aws.amazon.com/cloudwatch/"
         },
         {
