@@ -161,14 +161,14 @@
             "id": 13,
             "firstName": "Mason",
             "lastName": "Snyder",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "Don't let yesterday take up too much of today. -Will Rogers",
+            "bio": "Network Engineer turned software dev gave me a foundation of understanding how computers operate and interact with one another. Looking to apply my skills for the greater good.",
+            "github": "https://github.com/masonmsnyder",
+            "linkedIn": "https://https://www.linkedin.com/in/masonmsnyder/",
+            "portfolio": null,
+            "email": "msnyder193@gmail.com",
+            "proImg": "pro-student-mason-snyder-placeholder.png",
+            "funImg": "fun-student-mason-snyder.png"
         },
         {
             "id": 14,
