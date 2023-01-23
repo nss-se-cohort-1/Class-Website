@@ -43,14 +43,14 @@
             "id": 4,
             "firstName": "Alex",
             "lastName": "Leuang",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "I have not failed. I have found 10,000 ways that don't work.",
+            "bio": "I enjoy building and programming robots.",
+            "github": "https://github.com/alexleuang",
+            "linkedIn": "https://www.linkedin.com/in/alex-leuang/",
+            "portfolio": "null",
+            "email": "asleuang@gmail.com",
+            "proImg": "pro-student-alexander-leuang.jpg",
+            "funImg": "fun-student-alexander-leuang.jpg"
         },
         {
             "id": 5,
