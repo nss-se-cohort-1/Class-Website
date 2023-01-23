@@ -108,14 +108,14 @@
             "id": 9,
             "firstName": "Matthew",
             "lastName": "Reuther",
-            "reelThemIn": "TODO - Some kinda <b>inspirational quote</b>",
-            "bio": "TODO - Tell em about yourself",
-            "github": "https://github.com/YOUR_ACCOUNT",
-            "linkedIn": "https://www.linkedin.com/in/YOUR_ACCOUNT",
-            "portfolio": "YOUR_PERSONAL_WEBSITE_IF_YOU_HAVE_ONE",
-            "email": "YOUR.EMAIL@DOMAIN.COM",
-            "proImg": "pro-student.png",
-            "funImg": "fun-student.png"
+            "reelThemIn": "You miss 100% of the shots you don't take. <b>-Wayne Gretzky -(Michael Scott)</b>",
+            "bio": "I am driven by the challenge of creating and problem-solving in technology and computers, and find satisfaction in building things from scratch. This drive led me to attend a web developer bootcamp at the Nashville Software School where I developed my skills as a front-end developer. After 5 years of experience in the industry, I returned to school to deepen my knowledge by focusing on backend development. I am excited to use my skills to make a meaningful impact in the industry as a developer.",
+            "github": "https://github.com/MatthewReuther",
+            "linkedIn": "https://www.linkedin.com/in/matthewreuther",
+            "portfolio": null,
+            "email": "matthew.reuther@gmail.com",
+            "proImg": "pro-student-matthew-reuther.jpg",
+            "funImg": "pro-student-matthew-reuther.jpg"
         },
         {
             "id": 10,
